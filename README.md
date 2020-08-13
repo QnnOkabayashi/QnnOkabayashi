@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**QnnOkabayashi/QnnOkabayashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 I'm studying CS at Swarthmore College 
+- 🔭 I'm currently working on optimized Python extensions for ML
+- 🤔 I’m interested in writing low-level code for ML applications
+- 💪 I'm proficient in:
+    - Python
+    - C
+    - C++
+    - Java
+- 🌱 I'm currently learning Rust 🦀
+- 📫 How to reach me: 
+    - Twitter: https://twitter.com/QnnOkabayashi
+    - LinkedIn: https://www.linkedin.com/in/quinn-okabayashi-453535179/
+    - Email: qokabay1@swarthmore.edu
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I once ran a 5:58 mile 🏃
