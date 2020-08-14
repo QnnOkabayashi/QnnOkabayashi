@@ -3,7 +3,6 @@
 ## I'm a Student, Math Tutor, Skier, and Hockey Player!
 
 - 📚 I'm studying CS at Swarthmore College
-[<img alt="Swarthmore" width="20" src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/swarthmore.svg">][swarthmore]
 
 - 🔭 I'm currently working on an [optimized Python extension for ML][quantum_repo]
 
@@ -13,7 +12,7 @@
 
 - ⚡ Fun fact: I once ran a 5:58 mile 🏃
 
-## I'm proficient in these languages:
+## Languages:
 [<img alt="Python" width="40" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/python/python-original.svg">][decision-tree_repo]
 [<img alt="C" width="40" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/c/c-original.svg">][quantum_repo]
 <img alt="C++" width="40" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/cplusplus/cplusplus-original.svg">
