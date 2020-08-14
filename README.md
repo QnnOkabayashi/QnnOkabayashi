@@ -1,6 +1,6 @@
 ### Hi there, I'm Quinn 👋
 
-## I'm a Student, Hockey Player, Skier, and Math Tutor!
+## I'm a Student, Math Tutor, Skier, and Hockey Player!
 
 - 📚 I'm studying CS at Swarthmore College
 [<img alt="Swarthmore" width="20" src="https://i.turner.ncaa.com/sites/default/files/images/logos/schools/bgl/swarthmore.svg">][swarthmore]
@@ -27,6 +27,6 @@
 [swarthmore]: https://www.swarthmore.edu
 [quantum_repo]: https://github.com/QnnOkabayashi/Quantum
 [decision-tree_repo]: https://github.com/QnnOkabayashi/ai_decision_tree
-[email]: qokabay1@swarthmore.edu
+[email]: mailto:qokabay1@swarthmore.edu
 [linkedin]: https://www.linkedin.com/in/quinn-okabayashi-453535179/
 [twitter]: https://twitter.com/QnnOkabayashi
