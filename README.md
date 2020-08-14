@@ -5,15 +5,18 @@
 - 🔭 I'm currently working on optimized Python extensions for ML
 - 🤔 I’m interested in writing low-level code for ML applications
 - 💪 I'm proficient in:
-    - Python
-    - C
-    - C++
-    - Java
+    - <img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/python.svg">
+    - <img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/c.svg">
+    - <img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/cplusplus.svg">
+    - <img align="left" alt="Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/java.svg">
 - 🌱 I'm currently learning Rust 🦀
 - ⚡ Fun fact: I once ran a 5:58 mile 🏃
 
+[cpp]: https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/cplusplus.svg
+
 ## Connect with me:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdm.jsdelivr.net/npm/simple-icons@v3/incons/linkedin.svg">][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
 
 <!-- 
 - Twitter: https://twitter.com/QnnOkabayashi
@@ -21,3 +24,4 @@
 - Email: qokabay1@swarthmore.edu -->
 
 [linkedin]: https://www.linkedin.com/in/quinn-okabayashi-453535179/
+[twitter]: https://twitter.com/QnnOkabayashi
