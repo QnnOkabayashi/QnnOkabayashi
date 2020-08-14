@@ -15,7 +15,7 @@
 
 ## Languages I'm proficient in:
 - Python
-- <img alt="C++" width="20" src="https://p7.hiclipart.com/preview/889/976/939/the-c-programming-language-computer-programming-programming.jpg">
+- <img alt="C++" width="20" src="https://p7.hiclipart.com/preview/520/669/92/c-programming-language-computer-icons-computer-programming-programming-thumbnail.jpg">
 - C++
 - Java
 
