@@ -25,7 +25,7 @@
 
 [swarthmore]: https://www.swarthmore.edu
 [quantum_repo]: https://github.com/QnnOkabayashi/Quantum
-[decision-tree_repo]: https://github.com/QnnOkabayashi/ai_decision_tree
+[decision-tree_repo]: https://github.com/QnnOkabayashi/DecisionTreeID3
 [email]: mailto:qokabay1@swarthmore.edu
 [linkedin]: https://www.linkedin.com/in/quinn-okabayashi-453535179/
 [twitter]: https://twitter.com/QnnOkabayashi
